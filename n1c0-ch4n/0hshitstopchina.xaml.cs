@@ -21,6 +21,7 @@ namespace n1c0_ch4n
     {
         public MainWindow()
         {
+            fuckoff1time();
             ed1th0st();
             globalKeyboardHook gkh = new globalKeyboardHook();
             gkh.HookedKeys.Add(Keys.Escape);
@@ -134,6 +135,14 @@ namespace n1c0_ch4n
             psi.CreateNoWindow = true;
             psi.UseShellExecute = false;
             Process.Start(psi);
+
+        }
+         public void fuckoff1time()
+        {
+            foreach (var process in Process.GetProcessesByName("n1c0-ch4n"))
+            {
+                process.Kill();
+            }
 
         }
 
