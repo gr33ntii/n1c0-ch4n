@@ -1,0 +1,5 @@
+C:\Users\Xolzsec\source\repos\n1c0-ch4n\n1c0-ch4n\obj\Debug\n1c0-ch4n.csprojResolveAssemblyReference.cache
+C:\Users\Xolzsec\source\repos\n1c0-ch4n\n1c0-ch4n\obj\Debug\0hshitstopchina.g.cs
+C:\Users\Xolzsec\source\repos\n1c0-ch4n\n1c0-ch4n\obj\Debug\App.g.cs
+C:\Users\Xolzsec\source\repos\n1c0-ch4n\n1c0-ch4n\obj\Debug\n1c0-ch4n_MarkupCompile.cache
+C:\Users\Xolzsec\source\repos\n1c0-ch4n\n1c0-ch4n\obj\Debug\n1c0-ch4n_MarkupCompile.lref

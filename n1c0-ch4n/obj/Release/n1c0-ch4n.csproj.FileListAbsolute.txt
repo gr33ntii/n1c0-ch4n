@@ -1,0 +1,17 @@
+C:\Users\Xolzsec\source\repos\n1c0-ch4n\n1c0-ch4n\obj\Release\0hshitstopchina.g.cs
+C:\Users\Xolzsec\source\repos\n1c0-ch4n\n1c0-ch4n\obj\Release\App.g.cs
+C:\Users\Xolzsec\source\repos\n1c0-ch4n\n1c0-ch4n\obj\Release\n1c0-ch4n_MarkupCompile.cache
+C:\Users\Xolzsec\source\repos\n1c0-ch4n\n1c0-ch4n\obj\Release\n1c0-ch4n_MarkupCompile.lref
+C:\Users\Xolzsec\source\repos\n1c0-ch4n\n1c0-ch4n\bin\Release\n1c0-ch4n.exe.config
+C:\Users\Xolzsec\source\repos\n1c0-ch4n\n1c0-ch4n\bin\Release\n1c0-ch4n.exe
+C:\Users\Xolzsec\source\repos\n1c0-ch4n\n1c0-ch4n\bin\Release\n1c0-ch4n.pdb
+C:\Users\Xolzsec\source\repos\n1c0-ch4n\n1c0-ch4n\bin\Release\Microsoft.Build.Utilities.Core.dll
+C:\Users\Xolzsec\source\repos\n1c0-ch4n\n1c0-ch4n\bin\Release\Microsoft.Build.Framework.dll
+C:\Users\Xolzsec\source\repos\n1c0-ch4n\n1c0-ch4n\obj\Release\0hshitstopchina.baml
+C:\Users\Xolzsec\source\repos\n1c0-ch4n\n1c0-ch4n\obj\Release\n1c0-ch4n.g.resources
+C:\Users\Xolzsec\source\repos\n1c0-ch4n\n1c0-ch4n\obj\Release\n1c0_ch4n.Properties.Resources.resources
+C:\Users\Xolzsec\source\repos\n1c0-ch4n\n1c0-ch4n\obj\Release\n1c0-ch4n.csproj.GenerateResource.Cache
+C:\Users\Xolzsec\source\repos\n1c0-ch4n\n1c0-ch4n\obj\Release\n1c0-ch4n.csproj.CoreCompileInputs.cache
+C:\Users\Xolzsec\source\repos\n1c0-ch4n\n1c0-ch4n\obj\Release\n1c0-ch4n.exe
+C:\Users\Xolzsec\source\repos\n1c0-ch4n\n1c0-ch4n\obj\Release\n1c0-ch4n.pdb
+C:\Users\Xolzsec\source\repos\n1c0-ch4n\n1c0-ch4n\obj\Release\n1c0-ch4n.csprojResolveAssemblyReference.cache

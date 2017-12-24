@@ -1,0 +1,17 @@
+﻿<Window x:Class="n1c0_ch4n.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:n1c0_ch4n"
+        mc:Ignorable="d"
+        Title="Nico-Chan" 
+        WindowStyle="None" WindowState="Maximized" WindowStartupLocation="CenterScreen"
+        x:Name="main"
+        PreviewKeyDown="k3yd0wn">
+
+
+    <Grid>
+        <MediaElement x:Name="mp4" Loaded="mp4_loaded" MediaEnded="MME_ME" />
+    </Grid>
+</Window>
